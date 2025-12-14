@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Dressing-0.1.0";
 const contentToCache = [
-    "Build/Dressing-Game-Build.loader.js",
-    "Build/Dressing-Game-Build.framework.js",
-    "Build/Dressing-Game-Build.data",
-    "Build/Dressing-Game-Build.wasm",
+    "Build/82d8e3d39639674b6fa9636b9455f08f.loader.js",
+    "Build/ca2f1b4c00024a205d19829be565a892.framework.js",
+    "Build/2a8f6d0db4cad60c4024ff845f04e607.data",
+    "Build/6a81ee25c4cbd147ceb0cc979502eb35.wasm",
     "TemplateData/style.css"
 
 ];
